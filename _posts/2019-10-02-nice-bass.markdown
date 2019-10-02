@@ -9,4 +9,4 @@ tags:
 
 Just testing stuff
 
-[bass.JPG](/uploads/bass.JPG)
+![](/uploads/bass.JPG)
