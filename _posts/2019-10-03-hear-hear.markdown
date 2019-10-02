@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hear hear"
+date:   2019-10-03 00:00:00 +0100
+categories: blog
+---
+Added some layers of Microfreak to a new track tonight. 
+
