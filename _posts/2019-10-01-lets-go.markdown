@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Let's Go"
+date:   2019-10-01 00:00:00 +0100
+categories: blog
+---
+Excited to get this project off the ground. Have spent the last few weeks writing and recording new music and that's the plan for the next few months too. 
+
