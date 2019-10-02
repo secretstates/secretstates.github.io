@@ -1,0 +1,12 @@
+---
+title: Nice bass
+date: 2019-10-02 14:49:00 Z
+categories:
+- blog
+tags:
+- gear
+---
+
+Just testing stuff
+
+[bass.JPG](/uploads/bass.JPG)
