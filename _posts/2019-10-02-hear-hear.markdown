@@ -1,30 +1,7 @@
-UPDATE Subjects set sTopicValueURI = REPLACE(sTopicValueURI, 'http:', 'https:') WHERE sTopicValueURI like 'http:%';
-UPDATE Subjects set sTopicValueURI2 = REPLACE(sTopicValueURI2, 'http:', 'https:') WHERE sTopicValueURI2 like 'http:%';
-UPDATE Subjects set sTopicValueURI3 = REPLACE(sTopicValueURI3, 'http:', 'https:') WHERE sTopicValueURI3 like 'http:%';
-UPDATE Subjects set sTopicValueURI4 = REPLACE(sTopicValueURI4, 'http:', 'https:') WHERE sTopicValueURI4 like 'http:%';
-UPDATE Subjects set sTopicValueURI5 = REPLACE(sTopicValueURI5, 'http:', 'https:') WHERE sTopicValueURI5 like 'http:%';
-UPDATE Subjects set sValueURI = REPLACE(sValueURI, 'http:', 'https:') WHERE sValueURI like 'http:%';
-UPDATE Subjects set sTopicXlinkHref = REPLACE(sTopicXlinkHref, 'http:', 'https:') WHERE sTopicXlinkHref like 'http:%';
-UPDATE Subjects set sXlinkhref = REPLACE(sXlinkhref, 'http:', 'https:') WHERE sXlinkhref like 'http:%';
-
-
-UPDATE Subjects set sXlinkhref = REPLACE(sXlinkhref, 'https:', 'http:') WHERE sXlinkhref like 'https://www.buildingsofireland.ie%';
-
-sXlinkhref 
-
-
-UPDATE Names set valueURI = REPLACE(valueURI, 'http:', 'https:') WHERE valueURI like 'http:%';
-UPDATE Names set xlinkhref = REPLACE(xlinkhref, 'http:', 'https:') WHERE xlinkhref like 'http:%';
-
-UPDATE Genres set genreValueURI = REPLACE(genreValueURI, 'http:', 'https:') WHERE genreValueURI like 'http:%';
-
-
-
-
-
-http://example.com%
-
-
-rsync -avP --delete /portfolio/ /storage/nas2b/portfolio/ >/var/log/portfolio_errors.log &
-
-
+---
+layout: post
+title:  "Hear hear"
+date:   2019-10-02 21:00:00 +0100
+categories: blog
+---
+Recorded the skeleton of a new song last night. Tape loop, lots of delay and reverb.
